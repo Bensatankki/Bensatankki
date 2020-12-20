@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+
+### Yo! I'm a bi disaster guy with an interest in programming and computers.
+
+
+
 
 <!--
 **Bensatankki/Bensatankki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
