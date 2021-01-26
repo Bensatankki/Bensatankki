@@ -1,6 +1,6 @@
 ### 
 
-### Yo! I'm a bi disaster guy with an interest in programming and computers.
+### I use arch & windows 10 btw.
 
 
 
