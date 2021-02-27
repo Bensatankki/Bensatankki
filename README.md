@@ -3,7 +3,7 @@
 ### I use arch & windows 10 btw.
 
 
-
+<img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
 
 <!--
 **Bensatankki/Bensatankki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
