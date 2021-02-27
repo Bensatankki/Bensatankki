@@ -1,6 +1,6 @@
 ### 
 
-### I use arch & windows 10 btw.
+### He/Him | noob in Rust and hopeless in C | chillin'
 
 
 <img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
