@@ -1,6 +1,6 @@
 ### 
 
-### He/Him | noob in Rust and hopeless in C | chillin'
+### He/Him | Trying to learn systems programming langs | chillin'
 
 
 <img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
