@@ -1,6 +1,6 @@
 ### 
 
-### He/Him | Trying to learn systems programming langs | chillin'
+### He/Him | SICP and Chill | 
 
 
 <img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
