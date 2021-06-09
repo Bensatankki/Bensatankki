@@ -1,6 +1,6 @@
 ### 
 
-### He/Him | SICP and Chill | 
+### He/Him | Programming and Anime |  
 
 
 <!-- <img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
