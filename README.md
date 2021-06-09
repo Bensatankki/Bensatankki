@@ -3,7 +3,8 @@
 ### He/Him | SICP and Chill | 
 
 
-<img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
+<!-- <img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
+-->
 
 <img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Sakura_Chiyo_Flustered_Hugging_SICP.jpg">
 
