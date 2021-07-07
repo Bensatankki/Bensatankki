@@ -3,11 +3,11 @@
 ### He/Him | Ask me about ?????
 
 
-<!-- <img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
+<img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Shima_Rin_Motivated_With_C.png">
+
+
+<!-- <img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Sakura_Chiyo_Flustered_Hugging_SICP.jpg">
 -->
-
-<img src ="https://github.com/Bensatankki/Bensatankki/blob/main/Sakura_Chiyo_Flustered_Hugging_SICP.jpg">
-
 <!--
 **Bensatankki/Bensatankki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
